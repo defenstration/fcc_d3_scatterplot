@@ -4,5 +4,14 @@
 
 
 .dot {
-    background-color: aqua;
+    fill: aqua;
+}
+
+.dot:hover {
+    fill: red;
+}
+
+#legend {
+    fill: grey;
+    color: red;
 }
